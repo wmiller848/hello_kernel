@@ -1,0 +1,1 @@
+docker run -it -v $(PWD)/os:/host_volume wmiller848/hello_kernel cp hello_kernel.iso /host_volume/

@@ -1,0 +1,2 @@
+docker build -t wmiller848/hello_kernel .
+./bootstrap
